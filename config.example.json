@@ -1,0 +1,9 @@
+{
+    "organisationId": "",
+    "user": "",
+    "host": "",
+    "port": 5432,
+    "database": "",
+    "password": "",
+    "CONCURRENCY" : 2
+}
